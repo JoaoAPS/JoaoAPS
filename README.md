@@ -6,29 +6,37 @@
   + Website: https://jpaludosilveira.xyz
 
 
-<!-- <h4 align="left">Github Stats </h4> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAPS&show_icons=true&locale=en" alt="joao" /></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="c" width="50" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="c" width="50" height="40"/>
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="http://djangosige.com.br/img/django-logo.png" alt="c" width="50" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="c" width="50" height="40"/>
+  </a>
+  
   <a href="https://julialang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/KalelR/KalelR/master/julia_icon.png" alt="c" width="50" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+
+
+<h4 align="left">Github Stats </h4>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAPS&show_icons=true&locale=en" alt="joao" /></p>
 
 
 <!---
